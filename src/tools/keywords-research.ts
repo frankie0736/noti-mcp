@@ -48,7 +48,7 @@ interface KeywordsEverywhereResponse {
 }
 
 /**
- * 调用KeywordsEverywhere API查询关键词数据
+ * 调用Keywords Everywhere API查询关键词数据
  */
 export async function getKeywordsData({ 
   keywords, 
